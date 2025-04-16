@@ -10,6 +10,8 @@
 - **Project Duration:** 4 Weeks
 - **Key Challenge:** UX Design Optimization
 
+![Atmajyoti](Atmajyoti.png)
+
 ### 🏢  Overview
 
 Atmajyoti is a wellness brand that aims to empower people of all age groups—children to elderly people—with powerful tools for self-transformation. With a plethora of courses and individual counseling, Atmajyoti deals with mental, emotional, and spiritual healing.
@@ -26,31 +28,25 @@ The founder, Mrs. Rma M Ketkar, had a vision of an online platform that embodies
 
 ### 💡Our Process
 
-#### 1. Discovery & Strategy
+ 1. Discovery & Strategy
+	We started with a detailed consultation with Mrs. Ketkar to grasp her goals, target audience, and the emotional impact she wanted the website to provide. The vision was obvious: a peaceful but strong platform for personal discovery and healing.
 
-We started with a detailed consultation with Mrs. Ketkar to grasp her goals, target audience, and the emotional impact she wanted the website to provide. The vision was obvious: a peaceful but strong platform for personal discovery and healing.
+ 2. Design & UX
+	Our design approach was centered on:
+	- A clean, light look with a minimalist design using Astra Theme for an airy, uncluttered presentation.
+	- Soothing color schemes and gentle animations to create an atmosphere of peace.
+	- Age-accessible design with clarity and usability for children as well as senior citizens.
+	- Visible calls-to-action (CTAs) for booking sessions and investigating courses.
 
-#### 2. Design & UX
+3. Development
+	We developed an extremely customizable website using WordPress and Elementor, which can easily be managed by Mrs. Ketkar's staff. WooCommerce was set up for future course registration, merchandise sales, and dissemination of resources.
 
-Our design approach was centered on:
-
-- A clean, light look with a minimalist design using Astra Theme for an airy, uncluttered presentation.
-- Soothing color schemes and gentle animations to create an atmosphere of peace.
-- Age-accessible design with clarity and usability for children as well as senior citizens.
-- Visible calls-to-action (CTAs) for booking sessions and investigating courses.
-
-#### 3. Development
-
-We developed an extremely customizable website using WordPress and Elementor, which can easily be managed by Mrs. Ketkar's staff. WooCommerce was set up for future course registration, merchandise sales, and dissemination of resources.
-
-#### 4. Performance & Testing
-
-We optimized every page for:
-
-- Mobile responsiveness
-- Fast loading speeds
-- SEO best practices to improve discoverability
-- Security features to secure data
+4. Performance & Testing
+	We optimized every page for:
+	- Mobile responsiveness
+	- Fast loading speeds
+	- SEO best practices to improve discoverability
+	- Security features to secure data
 
 ### Key Features Executed
 
